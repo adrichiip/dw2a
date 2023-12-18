@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-12-18T08:36:38.528Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="uybyQ7OK8W1SrdTiOKRt" version="22.1.11" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-18T08:38:20.066Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="BLPU2dYuYixf7b6Vyl_r" version="22.1.11" type="github">
   <diagram name="Página-1" id="35GgWt1w4V4TGdVvapww">
-    <mxGraphModel dx="720" dy="783" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="855" dy="930" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -33,6 +33,14 @@
             <Array as="points">
               <mxPoint x="600" y="240" />
               <mxPoint x="510" y="240" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NSk3KKELW8-BR6B0Czky-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="NSk3KKELW8-BR6B0Czky-3" target="NSk3KKELW8-BR6B0Czky-12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="600" y="240" />
+              <mxPoint x="680" y="240" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -72,8 +80,14 @@
         <mxCell id="NSk3KKELW8-BR6B0Czky-15" value="Elemento&lt;br&gt;Ul" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#FAD9D5;strokeColor=#D0CEE2;fontColor=#1A1A1A;" vertex="1" parent="1">
           <mxGeometry x="810" y="280" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="NSk3KKELW8-BR6B0Czky-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="NSk3KKELW8-BR6B0Czky-16" target="NSk3KKELW8-BR6B0Czky-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="NSk3KKELW8-BR6B0Czky-16" value="Elemento&lt;br&gt;Li" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#FAD9D5;strokeColor=#D0CEE2;fontColor=#1A1A1A;" vertex="1" parent="1">
           <mxGeometry x="740" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NSk3KKELW8-BR6B0Czky-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="NSk3KKELW8-BR6B0Czky-17" target="NSk3KKELW8-BR6B0Czky-26">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="NSk3KKELW8-BR6B0Czky-17" value="Elemento&lt;br&gt;Li" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#FAD9D5;strokeColor=#D0CEE2;fontColor=#1A1A1A;" vertex="1" parent="1">
           <mxGeometry x="890" y="370" width="120" height="60" as="geometry" />
@@ -83,6 +97,12 @@
         </mxCell>
         <mxCell id="NSk3KKELW8-BR6B0Czky-22" value="Texto&lt;br&gt;Encabezado" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#FAD9D5;strokeColor=#D0CEE2;fontColor=#1A1A1A;" vertex="1" parent="1">
           <mxGeometry x="314" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NSk3KKELW8-BR6B0Czky-24" value="Texto&lt;br&gt;Primer elemento de la lista" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#FAD9D5;strokeColor=#D0CEE2;fontColor=#1A1A1A;" vertex="1" parent="1">
+          <mxGeometry x="740" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NSk3KKELW8-BR6B0Czky-26" value="Texto&lt;br&gt;Segundo elemento de la lista" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#FAD9D5;strokeColor=#D0CEE2;fontColor=#1A1A1A;" vertex="1" parent="1">
+          <mxGeometry x="890" y="460" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
